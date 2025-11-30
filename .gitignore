@@ -1,0 +1,5 @@
+# Ignorar tudo fora da pasta Portfolio
+/*
+!/assets/
+!/portfolio_markdown.md
+!/.gitignore
