@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" src="/Portfolio/assets/Imagem do WhatsApp de 2025-11-14 à(s) 20.43.55_e5b2bceb.jpg" alt="" width="250"/>
+<img align="right" src="./assets/Imagem do WhatsApp de 2025-11-14 à(s) 20.43.55_e5b2bceb.jpg" alt="Foto de Tiago Freitas" width="250"/>
 
 ---
 
