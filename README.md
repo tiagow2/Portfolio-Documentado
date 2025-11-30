@@ -95,7 +95,7 @@ Busco entregar projetos **robustos e inovadores**. Valorizo imensamente a capaci
   <summary><strong>📌 API-FATEC | 2024-2 (1º Semestre)</strong></summary>
 
 ### 🎥 Vídeo da Apresentação  
-https://github.com/tiagow2/Portfolio-Documentado/assets/videoplayback.mp4
+[Clique aqui para assistir ao vídeo](./assets/videoplayback.mp4)
 
 ### 🔗 GitHub do Projeto  
 **(https://github.com/nicolygz/the-devs-department)**  
@@ -141,7 +141,7 @@ Além da camada visual, contribuí na integração entre os dados coletados, a A
   <summary><strong>📌 API-FATEC | 2025-1 (2º Semestre)</strong></summary>
 
 ### 🎥 Vídeo da Apresentação  
-https://github.com/tiagow2/Portfolio-Documentado/assets/helpnei.mp4
+[Clique aqui para assistir ao vídeo](./assets/helpnei.mp4)
 
 ### 🔗 GitHub do Projeto  
 **(https://github.com/the-devs-department/HELPNEI-2025.1-2Sem)**  
@@ -188,7 +188,7 @@ Colaborei também com a construção de cards, gráficos e telas informativas ut
   <summary><strong>📌 API-FATEC | 2025-2 (3º Semestre)</strong></summary>
 
 ### 🎥 Vídeo da Apresentação  
-https://github.com/tiagow2/Portfolio-Documentado/assets/GSW.mp4
+[Clique aqui para assistir ao vídeo](./assets/GSW.mp4)
 
 ### 🔗 GitHub do Projeto  
 **(https://github.com/the-devs-department/GSW-2025.2-3Sem)**  
