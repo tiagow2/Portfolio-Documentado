@@ -2,7 +2,6 @@
 
 **Estudante de Desenvolvimento de Software Multiplataforma na Fatec São José dos Campos – Prof. Jessen Vidal.**
 
----
 
 <img align="right" src="./assets/Imagem do WhatsApp de 2025-11-14 à(s) 20.43.55_e5b2bceb.jpg" alt="Foto de Tiago Freitas" width="250"/>
 
@@ -89,7 +88,6 @@ Busco entregar projetos **robustos e inovadores**. Valorizo imensamente a capaci
 
 ## 📁 Meus Projetos
 
----
 
 <details>
   <summary><strong>📌 API-FATEC | 2024-2 (1º Semestre)</strong></summary>
@@ -98,7 +96,7 @@ Busco entregar projetos **robustos e inovadores**. Valorizo imensamente a capaci
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tFMLtHVunYI)
 
 ### 🔗 GitHub do Projeto  
-**(https://github.com/nicolygz/the-devs-department)**  
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicolygz/the-devs-department)
 
 ---
 
@@ -144,7 +142,7 @@ Além da camada visual, contribuí na integração entre os dados coletados, a A
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=bwsLHyKiF4Y)
 
 ### 🔗 GitHub do Projeto  
-**(https://github.com/the-devs-department/HELPNEI-2025.1-2Sem)**  
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-devs-department/HELPNEI-2025.1-2Sem)
 
 ---
 
@@ -191,7 +189,7 @@ Colaborei também com a construção de cards, gráficos e telas informativas ut
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=zkHs3_X137I)
 
 ### 🔗 GitHub do Projeto  
-**(https://github.com/the-devs-department/GSW-2025.2-3Sem)**  
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-devs-department/GSW-2025.2-3Sem)
 
 ---
 
