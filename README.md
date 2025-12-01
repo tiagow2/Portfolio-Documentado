@@ -6,35 +6,13 @@
 <img align="right" src="./assets/Imagem do WhatsApp de 2025-11-14 à(s) 20.43.55_e5b2bceb.jpg" alt="Foto de Tiago Freitas" width="250"/>
 
 ---
+## Sobre mim
 
 Sou **Técnico em Desenvolvimento de Sistemas** e atualmente curso DSM, onde tenho desenvolvido diversos projetos práticos, principalmente **APIs completas com foco em Node.js, Express, MySQL, TypeScript e integração com front-end em EJS e React.**
 
 Ao longo da graduação, evoluí bastante na construção de **CRUDs**, na **modelagem de banco de dados**, no uso de **SQL avançado** (stored procedures, triggers, functions, views, joins e cursor), além da criação de interfaces gráficas **responsivas** e sistemas completos.
 
 Gosto de criar soluções **eficientes e bem estruturadas**, desenvolvendo tanto habilidades técnicas quanto interpessoais, como organização, comunicação, colaboração e autonomia. Já trabalhei em APIs de semestre, dashboards, sistemas CLI e front-end profissional para projetos como *Helpnei* e *GSW*, sempre focando em boas práticas e evolução contínua.
-
----
-
-## Sobre mim
-
-Sou um profissional formado como **Técnico em Desenvolvimento de Sistemas**,
-movido pela paixão por **tecnologia e inovação**.
-
-Atualmente, estou cursando **Desenvolvimento de Software Multiplataformas** na renomada **Fatec de São José dos Campos**, onde aprimoro minhas habilidades em soluções modernas.
-
-> Minha base técnica sólida em **lógica de programação, banco de dados e infraestrutura** está sendo expandida.
-
-Com a graduação, foco no desenvolvimento de **aplicativos multiplataformas**, o que me capacita a criar soluções **eficientes e escaláveis** para:
-* Móvel
-* Web
-* Desktop
-
-Dedico-me a estar sempre atualizado, dominando práticas essenciais do mercado, como:
-* **Metodologias Ágeis**
-* **Desenvolvimento em Cloud**
-* **Frameworks Modernos**
-
-Busco entregar projetos **robustos e inovadores**. Valorizo imensamente a capacidade de **aprender e me adaptar rapidamente**, pois acredito que o constante aprendizado é o principal motor para o sucesso na área de tecnologia.
 
 ---
 
@@ -215,6 +193,31 @@ No projeto da GSW, atuei como **Scrum Master**, sendo o responsável por facilit
 Trabalhei ativamente na remoção de impedimentos técnicos e organizacionais, apoiando o Dev Team para manter a produtividade e o fluxo de desenvolvimento.
 
 Colaborei também para melhorar a integração entre o frontend em React e TypeScript e os microserviços construídos em Java com Spring Boot, ajudando a equipe a resolver gargalos e organizar prioridades.
+
+## Identificação de Problemas — 3º Semestre (Scrum Master)
+
+Como Scrum Master da API no 3º semestre, identifiquei diversos pontos que impactaram negativamente o andamento do projeto e das entregas durante as sprints. Entre os principais problemas observados, destaco:
+
+### 1. Falta de organização
+Apesar de, pessoalmente, eu enxergar o grupo como organizado, sob a ótica do método Scrum a equipe apresentava desestruturação. Isso comprometeu diretamente a qualidade e os prazos das entregas, especialmente na 3ª sprint.
+
+### 2. Falhas de comunicação e transparência
+Nas duas primeiras sprints, a equipe teve dificuldades em se comunicar de forma clara e objetiva. Muitas vezes, não dávamos feedbacks diretos quando alguém fez algo fora do escopo ou desalinhado com o esperado.  
+Além disso, por sermos um grupo muito próximo, acabávamos evitando apontar erros de forma construtiva, o que prejudicou a evolução coletiva.  
+Somente na 3ª sprint houve uma melhora significativa nas conversas e no alinhamento.
+
+### 3. Falta de reatividade
+No início do semestre, percebemos que algumas pessoas não estavam acompanhando o ritmo do grupo — o que gerou atrasos e entregas incompletas.  
+A equipe acreditava que o desempenho iria melhorar naturalmente, porém isso não ocorreu. A reação só veio na 3ª sprint, quando já era tarde para corrigir de forma plena os impactos causados.
+
+### 4. Qualidade insuficiente nas entregas
+Algumas entregas feitas no começo do projeto não estavam em um nível aceitável, e esse problema se acumulou ao longo das sprints.  
+Consequentemente, na 3ª sprint — justamente quando surgiu o microserviço — tivemos que refatorar partes importantes do back-end, consumindo tempo e esforço que poderiam ter sido direcionados à evolução do produto.
+
+### 5. Falta de atenção à documentação
+A equipe não analisou a documentação da API com o cuidado necessário. Isso fez com que a existência do microserviço se tornasse uma “surpresa”, quando, na realidade, já estava prevista desde o início.  
+Essa falta de atenção inicial gerou retrabalho e pressão desnecessária no final do projeto.
+ 
 
 ### Hard Skills Desenvolvidas
 * TypeScript — realizo com autonomia  
